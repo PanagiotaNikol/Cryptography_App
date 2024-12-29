@@ -3,26 +3,26 @@ This application is a cryptography tool that supports three different methods: C
 
 Features
 1. Caesar Cipher
-  * Encrypts text by shifting characters.
-  * User inputs the text and the key.
+   * Encrypts text by shifting characters.
+   * User inputs the text and the key.
 
 2. Affine Cipher
-  * Encrypts and decrypts text using the parameters a and b.
-  * User inputs the text and the parameters.
+   * Encrypts and decrypts text using the parameters a and b.
+   * User inputs the text and the parameters.
 
 3. Vigenere Cipher
- * Encrypts and decrypts text using a key.
- * User inputs the text and the key.
+  * Encrypts and decrypts text using a key.
+  * User inputs the text and the key.
 
 * Usage Instructions
-  * Select the encryption method from the main page.
-  * Enter the text and the necessary details (key or parameters).
-  * Click the button to encrypt or decrypt.
-  * View the result on the screen.
+   * Select the encryption method from the main page.
+   * Enter the text and the necessary details (key or parameters).
+   * Click the button to encrypt or decrypt.
+   * View the result on the screen.
    
 * Requirements
-  * Python 3.x
-  * tkinter and customtkinter libraries
+   * Python 3.x
+   * tkinter and customtkinter libraries
 
 4. Pictures
 
