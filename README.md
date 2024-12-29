@@ -11,8 +11,8 @@ Features
    * User inputs the text and the parameters.
 
 3. Vigenere Cipher
-  * Encrypts and decrypts text using a key.
-  * User inputs the text and the key.
+    * Encrypts and decrypts text using a key.
+    * User inputs the text and the key.
 
 Usage Instructions
    * Select the encryption method from the main page.
