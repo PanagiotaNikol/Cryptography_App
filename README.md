@@ -14,13 +14,13 @@ Features
   * Encrypts and decrypts text using a key.
   * User inputs the text and the key.
 
-* Usage Instructions
+Usage Instructions
    * Select the encryption method from the main page.
    * Enter the text and the necessary details (key or parameters).
    * Click the button to encrypt or decrypt.
    * View the result on the screen.
    
-* Requirements
+Requirements
    * Python 3.x
    * tkinter and customtkinter libraries
 
